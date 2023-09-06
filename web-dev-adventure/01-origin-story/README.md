@@ -1,0 +1,3 @@
+# Episode 1 - The Origin Story
+
+In this episode we'll be kicking off Scott and Anthony's Web Dev Adventure!!! Tune in to the first episode as they set the stage for their upcoming series. Watch as they bring the JavaScript Jam website to life using Astro, and immerse yourself in their infectious enthusiasm for web development. Get ready for a thrilling and educational adventure filled with coding, creativity, and camaraderie.
